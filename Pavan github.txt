@@ -1,0 +1,17 @@
+GitHub	
+Github is a web-based version control and collaborate platform for software developers it was found on it and open-source code management system create by LINUS TORVALDS. Eat the place you were suppose store source for project and track the complete history of that code GitHub allows developers to change adapt and improve from its public repository each public and private repository contain all of project files as well as each file revision history. Repositories can have multiple collaborators and can be either public (or)private
+	GitHub working---
+GitHub facilitates social coding by providing hosting service and interface for the git code repository, as well as management tool for collaboration.
+The developer platform can be thought of a social networking site for software developers. Members can follow each other, rate each other’s work, receive update for specific open-source project, and communicate
+            Publicly (or) privately.
+	Important terms of Git hub developers and uses: - 
+•	Fork: - A fork, also known as a branch is a repository that has been copied from one member’s account to another member’s account. forks and branches let a developer make modification without affecting the original code.
+•	Pull request: - If a developer would like to share their modification, they can send a pull request to the owner of original repository.
+•	Merge: - If, after reviewing the modifications the original owner like to pull the modifications into the repository, they can accept the modifications and merge them the original repository. 
+•	Push: - This this is the reverse of a pull -a programmer send code from a local copy to the online repository.
+•	Commit: - A commit (or)code revision, is an individual change to a file or set of files. by default, commit is retained and interleaved onto the main project. A unique ID is a creator when each commit is saved let’s collaborate keep a record of their work. A commit can be thought of as a snapshot of repository.
+•	Clone: - A clone is a local copy of a repository. 
+	Github uses --- 
+•       GitHub is used to store track and collaborates on software project in a number of different tech contexts.
+
+
